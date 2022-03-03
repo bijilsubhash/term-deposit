@@ -5,7 +5,7 @@ Machine learning model built to classify the customers who opt in for the term d
 Challenges encountered: Imbalanced dataset
 
 ## File Descriptions
-- **term-deposit-model.ipynb**: notebook with data exploration, feature engineering and model building
+- **[term-deposit-model.ipynb](https://github.com/bijilsubhash/term-deposit/blob/main/term-deposit-model.ipynb "term-deposit-model.ipynb")**: notebook with data exploration, feature engineering and model building
 
 ## Python Libaries Used
 - Pandas
